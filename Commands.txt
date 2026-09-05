@@ -1,0 +1,9 @@
+/*
+git init
+git status
+git add
+git push
+git remote add
+git commit -m -a
+git pull
+*/
