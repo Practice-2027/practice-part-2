@@ -6,4 +6,6 @@ git push
 git remote add
 git commit -m -a
 git pull
+git diff main
+git merge part2-branch1
 */
